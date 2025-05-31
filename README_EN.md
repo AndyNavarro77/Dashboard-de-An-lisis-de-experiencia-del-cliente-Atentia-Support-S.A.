@@ -33,3 +33,10 @@ This project presents an interactive dashboard developed in Power BI, focused on
 - Use the indicators to improve service quality.
 
 📬 Contact
+
+**Andrés Navarro**  
+
+📧 andresnavarroalvarez15@gmail.com
+🌐 [Portafolio Web](https://andres-navarro-portfolio.netlify.app)  
+🔗 [LinkedIn](https://www.linkedin.com/in/andr%C3%A9s-navarro77/)
+
